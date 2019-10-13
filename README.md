@@ -2,7 +2,7 @@
 
 Here is the current public interface of a Quip contract:
 
-```
+```solidity
 contract Quip {
 
   // events
